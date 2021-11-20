@@ -27,7 +27,8 @@ public class TestCaseWithoutFramework {
 		
 		Thread.sleep(2000);
 		
-		//This will quit the 
+		//This will quit the driver
+		//This is commit 4
 		driver.quit();
 			
 	}
