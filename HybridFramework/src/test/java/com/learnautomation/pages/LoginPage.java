@@ -14,7 +14,7 @@ public class LoginPage {
 		this.driver = ldriver;
 	}
 
-	@FindBy(name = "uid1") WebElement userID;
+	@FindBy(name = "uid") WebElement userID;
 	@FindBy(name = "password") WebElement password;
 	@FindBy(name = "btnLogin") WebElement loginBtn;
 	

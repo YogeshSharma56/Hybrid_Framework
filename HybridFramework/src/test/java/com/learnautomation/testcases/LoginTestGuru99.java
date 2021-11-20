@@ -2,11 +2,7 @@ package com.learnautomation.testcases;
 
 import org.testng.annotations.Test;
 import org.openqa.selenium.support.PageFactory;
-import org.testng.annotations.Test;
-
 import com.learnautomation.pages.LoginPage;
-import com.learnautomation.utility.ExcelDataProvider;
-import com.learnautomation.utility.Helper;
 
 public class LoginTestGuru99 extends BaseClass {	
 	
