@@ -21,6 +21,7 @@ import com.learnautomation.utility.ConfigDataProvider;
 import com.learnautomation.utility.ExcelDataProvider;
 import com.learnautomation.utility.Helper;
 
+//This is base class
 public class BaseClass {
 	
 	WebDriver driver;
