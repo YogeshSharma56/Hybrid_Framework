@@ -27,7 +27,7 @@ public class TestCaseWithoutFramework {
 		
 		Thread.sleep(2000);
 		
-		//This will quit the driver
+		//This will quit the 
 		driver.quit();
 			
 	}
