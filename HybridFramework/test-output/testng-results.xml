@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="6691" started-at="2021-11-20T12:50:50Z" finished-at="2021-11-20T12:50:56Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="6691" started-at="2021-11-20T12:50:50Z" finished-at="2021-11-20T12:50:56Z">
+      <class name="com.learnautomation.testcases.LoginTestGuru99">
+        <test-method status="PASS" signature="setupSuite()[pri:0, instance:com.learnautomation.testcases.LoginTestGuru99@91161c7]" name="setupSuite" is-config="true" duration-ms="525" started-at="2021-11-20T12:50:49Z" finished-at="2021-11-20T12:50:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupSuite -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.learnautomation.testcases.LoginTestGuru99@91161c7]" name="setUp" is-config="true" duration-ms="4422" started-at="2021-11-20T12:50:50Z" finished-at="2021-11-20T12:50:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginGuru99()[pri:0, instance:com.learnautomation.testcases.LoginTestGuru99@91161c7]" name="loginGuru99" duration-ms="1218" started-at="2021-11-20T12:50:54Z" finished-at="2021-11-20T12:50:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginGuru99 -->
+        <test-method status="PASS" signature="captureScreenshot(org.testng.ITestResult)[pri:0, instance:com.learnautomation.testcases.LoginTestGuru99@91161c7]" name="captureScreenshot" is-config="true" duration-ms="387" started-at="2021-11-20T12:50:55Z" finished-at="2021-11-20T12:50:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginGuru99 status=SUCCESS method=LoginTestGuru99.loginGuru99()[pri:0, instance:com.learnautomation.testcases.LoginTestGuru99@91161c7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshot -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.learnautomation.testcases.LoginTestGuru99@91161c7]" name="tearDown" is-config="true" duration-ms="646" started-at="2021-11-20T12:50:56Z" finished-at="2021-11-20T12:50:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.learnautomation.testcases.LoginTestGuru99 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
