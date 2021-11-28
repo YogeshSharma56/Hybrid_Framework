@@ -13,7 +13,7 @@ public class BrowserFactory {
 	{
 		if (browserName.equals("Chrome"))
 		{
-			System.setProperty("webdriver.chrome.driver", "./Drivers/chromedriver.exe");
+			System.setProperty("webdriver.chrome.driver", "./Drivers1/chromedriver.exe");
 			driver = new ChromeDriver();
 		}
 		else if (browserName.equals("Edge"))
